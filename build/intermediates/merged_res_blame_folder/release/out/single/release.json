@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_o.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/o.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_x.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/x.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_icon.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-anydpi-v26/icon.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_x_red.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/x_red.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-v24_x_red.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable-v24/x_red.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_grid.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/grid.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-v24_x.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable-v24/x.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-v24_o_red.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable-v24/o_red.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/layout_activity_main.xml.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-v24_grid.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable-v24/grid.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-v24_o.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable-v24/o.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/drawable_o_red.png.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/drawable/o_red.png"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

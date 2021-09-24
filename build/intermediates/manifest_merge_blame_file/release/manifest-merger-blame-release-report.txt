@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sabirdev.secondapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:5:5-21:19
+12        android:allowBackup="true"
+12-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] /home/sabirdev/.gradle/caches/transforms-3/255d63c0f9f8f5d12ab3191ffb377750/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/icon"
+14-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:7:9-36
+15        android:label="@string/app_name"
+15-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/icon"
+16-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:9:9-41
+17        android:supportsRtl="true"
+17-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:10:9-35
+18        android:theme="@style/Theme.SecondApp" >
+18-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:11:9-47
+19        <activity
+19-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:12:9-20:20
+20            android:name="com.sabirdev.secondapp.MainActivity"
+20-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:13:13-41
+21            android:exported="true" >
+21-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:14:13-36
+22            <intent-filter>
+22-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:15:13-19:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:16:17-69
+23-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:18:17-77
+25-->/home/sabirdev/AndroidStudioProjects/SecondApp/app/src/main/AndroidManifest.xml:18:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

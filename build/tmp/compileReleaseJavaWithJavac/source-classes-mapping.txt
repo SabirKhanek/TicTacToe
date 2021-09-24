@@ -1,0 +1,4 @@
+com/sabirdev/secondapp/BuildConfig.java
+ com.sabirdev.secondapp.BuildConfig
+com/sabirdev/secondapp/MainActivity.java
+ com.sabirdev.secondapp.MainActivity
